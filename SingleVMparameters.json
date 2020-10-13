@@ -77,7 +77,7 @@
             "value": "cloudaccount"
         },
         "adminPassword": {
-            "value": null
+            "value": "Hex@123456789"
         }
     }
 }

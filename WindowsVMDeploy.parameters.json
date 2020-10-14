@@ -6,10 +6,10 @@
             "value": "uksouth"
         },
         "networkInterfaceName": {
-            "value": "publicvm240"
+            "value": "SingleVM"
         },
         "networkSecurityGroupName": {
-            "value": "publicvm-nsg"
+            "value": "SingleVM-nsg"
         },
         "networkSecurityGroupRules": {
             "value": [
@@ -29,10 +29,10 @@
             ]
         },
         "subnetName": {
-            "value": "default"
+            "value": "SingleVMSNet"
         },
         "virtualNetworkName": {
-            "value": "DINESH_NEW-vnet"
+            "value": "Primary-vnet"
         },
         "addressPrefixes": {
             "value": [
@@ -50,7 +50,7 @@
             ]
         },
         "publicIpAddressName": {
-            "value": "publicvm-ip"
+            "value": "SingleVM-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
@@ -59,13 +59,13 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "publicvm"
+            "value": "SingleWINVM"
         },
         "virtualMachineComputerName": {
-            "value": "publicvm"
+            "value": "SingleWINVM"
         },
         "virtualMachineRG": {
-            "value": "DINESH_NEW"
+            "value": "SingleVM_RG"
         },
         "osDiskType": {
             "value": "Standard_LRS"

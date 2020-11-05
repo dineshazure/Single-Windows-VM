@@ -6,7 +6,7 @@
             "value": "uksouth"
         },
         "networkInterfaceName": {
-            "value": "SingleWinVM"
+            "value": "SingleVM"
         },
         "networkSecurityGroupName": {
             "value": "SingleVM-nsg"

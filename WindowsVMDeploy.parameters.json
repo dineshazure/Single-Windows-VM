@@ -42,7 +42,7 @@
         "subnets": {
             "value": [
                 {
-                    "name": "default",
+                    "name": "SingleVMSNet",
                     "properties": {
                         "addressPrefix": "10.0.0.0/24"
                     }
